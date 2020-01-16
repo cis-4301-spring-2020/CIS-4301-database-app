@@ -32,14 +32,14 @@ Work flow:
 
 5.  Next, use:
 
-         git pull https://github.com/cis-4301-spring-2020
+         git pull https://github.com/cis-4301-spring-2020/CIS-4301-database-app
 
       to check any potential conflicts with future merging by comparing currently developed code
       with the newest version of the repository.
 
 6.  After resolving all possible merge conflicts, use
 
-         git push https://github.com/cis-4301-spring-2020 [branch_name]
+         git push https://github.com/cis-4301-spring-2020/CIS-4301-database-app [branch_name]
 
       to stage a merge request.  You will need to follow the steps provided in the link
       github displays as a return to this request to finalize the merge request.
