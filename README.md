@@ -2,7 +2,7 @@
 This is the shared repository for the group's database project.
 
 
-Work flow:
+## Work flow:
 
 
 1.  Use: 
